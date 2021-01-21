@@ -1,3 +1,5 @@
+Document has been edited by Tunahan Ergul
+
 ### Date created
 Include the date you created this project and README file.
 
