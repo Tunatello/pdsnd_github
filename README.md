@@ -1,5 +1,7 @@
 Document has been edited by Tunahan Ergul
 
+Document has been opened and closed
+
 ### Date created
 Include the date you created this project and README file.
 
